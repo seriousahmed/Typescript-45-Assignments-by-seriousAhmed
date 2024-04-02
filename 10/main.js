@@ -1,0 +1,15 @@
+var num1 = "1";
+var num2 = "1";
+console.log(num1 + num2);
+var num3 = 1;
+var num4 = 1;
+console.log(num3 + num4);
+var num5 = 45;
+var num6 = 9;
+console.log(num5 * num6);
+var num7 = 110;
+var num8 = 11;
+console.log(num7 / num8);
+var num9 = 102;
+var num10 = 2;
+console.log(num9 - num10);
