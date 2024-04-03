@@ -1,0 +1,17 @@
+JTR Pakistan https://youtu.be/d9pdffYEwu8
+npm.js website for grabbing inquirer
+npx firequiz
+
+
+
+Running npm init on cmd opens building a new program on the same cmd.
+
+
+
+
+
+init means project initiatlization
+
+
+npm is the block seller
+inquirer is the block to build a house
